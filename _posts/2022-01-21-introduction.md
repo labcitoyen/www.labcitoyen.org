@@ -1,3 +1,7 @@
+---
+title: Laboratoire Citoyen à Québec
+---
+
 # Laboratoire Citoyen à Québec
 
 Le laboratoire citoyen de qualité de vie est un projet concret pour diffuser et avancer la science liée à nos environnements. Le laboratoire permettra aux citoyens de Québec de participer à des démarches scientifiques pour améliorer la qualité de vie des citoyens de la ville de Québec. Le laboratoire est avisé par un comité scientifique formé de scientifiques d'expérience qui ont la crédibilité d'appuyer les démarches citoyennes appliquant la démarche scientifique à leur propre milieu de vie.
