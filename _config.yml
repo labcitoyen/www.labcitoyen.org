@@ -6,3 +6,10 @@ google_analytics:
 theme: jekyll-theme-minimal
 site:
   lang: fr-CA
+  
+languages: ["fr", "en"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: fr
+languageNames:
+  fr: Français
+  en: English
